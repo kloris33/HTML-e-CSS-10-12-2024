@@ -1,0 +1,42 @@
+body
+  {
+    background-color: #32a338b4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    flex-direction: column;
+}
+
+* {
+    font-family: "Roboto Slab", serif;
+}
+
+p {
+    color: rgba(255, 0, 0, 0.5);
+}
+
+h2 {
+    color: rgb(0, 12, 2);
+}
+
+img {
+    width: 850px;
+    height: 300px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th {
+  background-color: #5d855fb4;
+}
+
+th,
+td {
+    border: 1px solid #ddddddbd;
+    text-align: left;
+    padding: 8px;
+}
